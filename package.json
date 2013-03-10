@@ -1,0 +1,17 @@
+{
+  "name": "opsworks-nodejs-example",
+  "version": "0.0.1",
+  "description": "Example repository to deploy with Amazon OpsWorks",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Florian Brandel",
+  "license": "BSD"
+}
